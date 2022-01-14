@@ -30,6 +30,13 @@ for(let i=0;i<konutKredileri.length;i++){
 }
 console.log("</ul>")
 
+//deneme1
+
+//deneme2
+
+//deneme3
+
+
 
 
 
